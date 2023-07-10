@@ -1,0 +1,91 @@
+.btn{
+    background-color: rgb(29, 7, 49);
+    color:white;
+    padding: 10px;
+    font-size: 16px;
+    border: solid rgb(29, 7, 49);
+    border-width: 2px;
+    border-radius: 5px;
+    margin: 10px  100px ;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+/*
+body{
+    background-color: rgb(78, 54, 75);
+    box-sizing: border-box;
+    margin: auto;
+    
+  
+
+
+}*/
+
+.mainBody{
+    background-image: linear-gradient( to right,rgb(77, 9, 71) 0%, rgb(77, 35, 71) 50%, rgb(104, 81, 99) 60%, white 100%);
+}
+
+
+.container{
+    position: relative;
+    width: 100%;
+    height:0;
+    padding-bottom: 50%;
+}
+/*
+.container img{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 30%;
+    height:70%;
+    top: 120px;
+    right:110px;
+    border-radius: 50%;
+    display:flex ;
+
+
+
+}*/
+
+
+
+img{
+    border-radius: 50%;
+    display: flex;
+    height: 70vh;
+    position: absolute;
+    top: 0px;
+    right: 110px;
+
+}
+
+/*
+body{
+    background-image: url(images/grad.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}*/
+
+.foot{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 450px 0px 0px 0px;
+}
+
+
+#fh1{
+
+    font-size: 50px;
+    font-style: italic;
+    padding: 20px 0px 50px 60px;
+   
+}
+
+#copy{
+    padding: 10px;
+}
